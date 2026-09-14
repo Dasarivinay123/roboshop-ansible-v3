@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb-{{env}}.vinaydevops.online
+REDIS_HOST: redis-{{env}}.vinaydevops.online
+MYSQL_HOST: mysql-{{env}}.vinaydevops.online
+RABBITMQ_HOST: rabbitmq-{{env}}.vinaydevops.online
+CATALOGUE_HOST: catalogue-{{env}}.vinaydevops.online
+USER_HOST: user-{{env}}.vinaydevops.online
+CART_HOST: cart-{{env}}.vinaydevops.online
+SHIPPING_HOST: shipping-{{env}}.vinaydevops.online
+PAYMENT_HOST: payment-{{env}}.vinaydevops.online
